@@ -1,7 +1,8 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-// ÀÌÈ¿¼®ÀÌ ¸¸µç ÄÚµå
+
+// Ã€ÃŒÃˆÂ¿Â¼Â®Ã€ÃŒ Â¸Â¸ÂµÃ§ Ã„ÃšÂµÃ¥
 public class TestCoding : MonoBehaviour
 {
     private GameObject my;
