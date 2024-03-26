@@ -14,4 +14,5 @@ public class TestCode : MonoBehaviour
 
     // 기능개발3 추가
     // 그런데 버그가 있는 기능3
+    // 기능3의 버그를 수정해요
 }
